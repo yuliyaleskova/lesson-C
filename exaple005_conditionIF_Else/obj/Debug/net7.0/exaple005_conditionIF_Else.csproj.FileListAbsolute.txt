@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\ExamplEs\exaple005_conditionIF_Else\bin\Debug\net7.0\exaple005_conditionIF_Else.exe
+C:\Users\Administrator\Desktop\ExamplEs\exaple005_conditionIF_Else\bin\Debug\net7.0\exaple005_conditionIF_Else.deps.json
+C:\Users\Administrator\Desktop\ExamplEs\exaple005_conditionIF_Else\bin\Debug\net7.0\exaple005_conditionIF_Else.runtimeconfig.json
+C:\Users\Administrator\Desktop\ExamplEs\exaple005_conditionIF_Else\bin\Debug\net7.0\exaple005_conditionIF_Else.dll
+C:\Users\Administrator\Desktop\ExamplEs\exaple005_conditionIF_Else\bin\Debug\net7.0\exaple005_conditionIF_Else.pdb
+C:\Users\Administrator\Desktop\ExamplEs\exaple005_conditionIF_Else\obj\Debug\net7.0\exaple005_conditionIF_Else.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ExamplEs\exaple005_conditionIF_Else\obj\Debug\net7.0\exaple005_conditionIF_Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ExamplEs\exaple005_conditionIF_Else\obj\Debug\net7.0\exaple005_conditionIF_Else.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ExamplEs\exaple005_conditionIF_Else\obj\Debug\net7.0\exaple005_conditionIF_Else.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ExamplEs\exaple005_conditionIF_Else\obj\Debug\net7.0\exaple005_conditionIF_Else.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ExamplEs\exaple005_conditionIF_Else\obj\Debug\net7.0\exaple005_conditionIF_Else.dll
+C:\Users\Administrator\Desktop\ExamplEs\exaple005_conditionIF_Else\obj\Debug\net7.0\refint\exaple005_conditionIF_Else.dll
+C:\Users\Administrator\Desktop\ExamplEs\exaple005_conditionIF_Else\obj\Debug\net7.0\exaple005_conditionIF_Else.pdb
+C:\Users\Administrator\Desktop\ExamplEs\exaple005_conditionIF_Else\obj\Debug\net7.0\exaple005_conditionIF_Else.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\ExamplEs\exaple005_conditionIF_Else\obj\Debug\net7.0\ref\exaple005_conditionIF_Else.dll
