@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\ExamplEs\example008_fuction\bin\Debug\net7.0\example008_fuction.exe
+C:\Users\Administrator\Desktop\ExamplEs\example008_fuction\bin\Debug\net7.0\example008_fuction.deps.json
+C:\Users\Administrator\Desktop\ExamplEs\example008_fuction\bin\Debug\net7.0\example008_fuction.runtimeconfig.json
+C:\Users\Administrator\Desktop\ExamplEs\example008_fuction\bin\Debug\net7.0\example008_fuction.dll
+C:\Users\Administrator\Desktop\ExamplEs\example008_fuction\bin\Debug\net7.0\example008_fuction.pdb
+C:\Users\Administrator\Desktop\ExamplEs\example008_fuction\obj\Debug\net7.0\example008_fuction.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ExamplEs\example008_fuction\obj\Debug\net7.0\example008_fuction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ExamplEs\example008_fuction\obj\Debug\net7.0\example008_fuction.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ExamplEs\example008_fuction\obj\Debug\net7.0\example008_fuction.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ExamplEs\example008_fuction\obj\Debug\net7.0\example008_fuction.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ExamplEs\example008_fuction\obj\Debug\net7.0\example008_fuction.dll
+C:\Users\Administrator\Desktop\ExamplEs\example008_fuction\obj\Debug\net7.0\refint\example008_fuction.dll
+C:\Users\Administrator\Desktop\ExamplEs\example008_fuction\obj\Debug\net7.0\example008_fuction.pdb
+C:\Users\Administrator\Desktop\ExamplEs\example008_fuction\obj\Debug\net7.0\example008_fuction.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\ExamplEs\example008_fuction\obj\Debug\net7.0\ref\example008_fuction.dll
